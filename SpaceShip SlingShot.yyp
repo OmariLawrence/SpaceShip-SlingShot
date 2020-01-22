@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "6636c2af-db6d-40f3-9900-d0079a7f54f2",
+            "Value": {
+                "id": "a9ad73a8-e947-431b-b588-89b670ed8c52",
+                "resourcePath": "sprites\\OPlanetSpr\\OPlanetSpr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6edf8045-43e4-4448-be06-8790cca40c0c",
             "Value": {
                 "id": "b10846c0-888d-4399-ab5e-fb5f2ea43946",
@@ -220,6 +228,14 @@
                 "id": "5e962e2f-621f-4319-9eee-cfae61e503cf",
                 "resourcePath": "views\\f0c8cd86-bd1c-44c0-ba22-0655e096b25a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f7e7acc4-aed5-4d5d-ae31-44b459c2037a",
+            "Value": {
+                "id": "d381baed-4e45-4aab-8d16-396e7819b246",
+                "resourcePath": "objects\\OPlanetObj\\OPlanetObj.yy",
+                "resourceType": "GMObject"
             }
         },
         {

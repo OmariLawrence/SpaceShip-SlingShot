@@ -5,7 +5,7 @@ y = HPlanetObj.y - 55;
 
 image_angle = point_direction(x,y,mouse_x,mouse_y)
 
-if(mouse_check_button(mb_left) && !Fired){
+if(mouse_check_button(mb_left) && !instance_exists(ShipObj)){
 	Fired = true;
 	with(instance_create_layer(x,y,"Ship",ShipObj)){
 		speed = 10;
