@@ -16,3 +16,7 @@ if(instance_exists(ShipObj)){
 		}
 	}
 }
+
+if(collision_circle(x,y,32,ShipObj,false,true)){
+	instance_create_layer(512,384,"Text",VictoryObj);
+}
